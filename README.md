@@ -1,25 +1,109 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Santiago Bolivar</h1> flag-co<br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sbolivara16" alt="sbolivara16" /></a> </p><br><br><p align="left"> <a href="https://twitter.com/@chago_16_" target="blank"><img src="https://img.shields.io/twitter/follow/@chago_16_?logo=twitter&style=for-the-badge" alt="@chago_16_" /></a> </p><br><br>- 🔭 I’m currently working on **Natural Products Synthesis**<br><br>- 🌱 I’m currently learning **in silico tools for drug discovery**<br><br>- 👯 I’m looking to collaborate on **in silico projects**<br><br>- 📫 How to reach me **sbolivara16@gmail.com**<br><br>- 📄 I am a chemist from the University of Atlántico, with a master's degree in pharmaceutical sciences, and currently a final-year Ph.D. student in chemical sciences. I have experience in organic synthesis of natural products and isolation of plant-based natural products. My interests lie in molecular docking and in silico tools for drug discovery.](a chemist from the University of Atlántico, with a master's degree in pharmaceutical sciences, and currently a final-year Ph.D. student in chemical sciences. I have experience in organic synthesis of natural products and isolation of plant-based natural products. My interests lie in molecular docking and in silico tools for drug discovery.)<br><br>- ⚡ Fun fact **⚽️ I'm a Colombian native from Barranquilla and a huge soccer fan, especially of Junior de Barranquilla (🦈), Newells (🔴⚫️), and FC Barcelona (🔵🔴).**<br><br><h3 align="left">Connect with me:</h3><br><p align="left"><br><a href="https://twitter.com/@chago_16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chago_16_" height="30" width="40" /></a><br></p><br><br><h3 align="left">Languages and Tools:</h3><br><p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p><br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbolivara16&show_icons=true&locale=en&layout=compact" alt="sbolivara16" /></p><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbolivara16&show_icons=true&locale=en" alt="sbolivara16" /></p><br><br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbolivara16&" alt="sbolivara16" /></p>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">👋 Hi there! I'm Santiago Bolivar</div>  
+  
+
+- I am a chemist from the University of Atlántico, with a master's degree in pharmaceutical sciences, and currently a final-year Ph.D. student in chemical sciences. I have experience in organic synthesis of natural products and isolation of plant-based natural products. My interests lie in molecular docking and in silico tools for drug discovery.⚛️⚗️🔭🔬  
+  
+
+- 🌱 I’m currently learning in silico tools for drug discovery  
+  
+
+- ❓ Ask me about anything related to organic synthesis and in silico tools🤗  
+  
+
+- ⚽️ I'm a Colombian native from Barranquilla and a huge soccer fan, especially of Junior de Barranquilla (🦈), Newells (🔴⚫️), and FC Barcelona (🔵🔴).  
+  
+
+<br/>  
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/) 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-# 💻 Tech Stack:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sbolivara16&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sbolivara16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sbolivara16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sbolivara16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Frontend  
+<div align="center">  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=sbolivara16&icon=0&color=0)](https://visitcount.itsvg.in)
+</td><td valign="top" width="33%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+### Backend  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/sbolivara16" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/chago_16" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/Santiago Bolivar A" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sbolivara16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sbolivara16&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
